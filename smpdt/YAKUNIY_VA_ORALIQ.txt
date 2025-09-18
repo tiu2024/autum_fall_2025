@@ -1,0 +1,512 @@
+2. Progressiv veb-ilovalar (PWA) ning asosiy xususiyati nima?
+A) Faqat iOS tizimida ishlaydi
+B) Internetga ulanmasdan ishlay olmaydi
+C) *Brauzer va mobil ilova asosida ishlaydi
+D) Faqat Android tizimida ishlaydi
+
+3. Mahalliy (Native) mobil ilovalarning asosiy afzalligi nimada?
+A) Tez ishlab chiqish jarayoni
+B) Kam xarajat talab qiladi
+C) *Platformaning barcha imkoniyatlaridan foydalanish
+D) Bir marta yozib, hamma joyda ishlatish
+
+4. Cross-platform dasturlashning eng katta kamchiligi nima?
+A) *Platformalar orasidagi farqlar tufayli murakkablik
+B) Yuqori dasturlash qiyinligi
+C) Juda Kop funksionallik
+D) Foydalanuvchi interfeysi yarata olmaslik
+
+5. Mobil ilovalar qaysi kategoriyalarga bo'linadi?
+A) Faqat o'yinlar va biznes ilovalar
+B) *Native, Gibrid, Cross-platform Web ilovalar
+C) Faqat bepul va pullik ilovalar
+D) Kichik va katta ilovalar
+
+6. React Native qaysi turdagi mobil ilovalar yaratish uchun ishlatiladi?
+A) Faqat native ilovalar
+B) Faqat web ilovalar
+C) *Cross-platform ilovalar
+D) Faqat gibrid ilovalar
+
+7. Mobil ilovalarni App Store'larga joylashtirish jarayoni nima deb ataladi?
+A) Kompilatsiya
+B) *Deployment (Joylashtirish)
+C) Debugging
+D) Optimizatsiya
+
+8. iOS va Android platformalari o'rtasidagi asosiy farq nimada?
+A) Ikkisi ham bir xil dasturlash tillarini ishlatadi
+B) *Har birining o'z native dasturlash tillari bor
+C) Faqat dizayn jihatidan farq qiladi
+D) Hech qanday farq yo'q
+
+10. Responsive dizayn mobil ilovalar uchun nima uchun muhim?
+A) *Turli ekran o'lchamlariga moslashish uchun
+B) Faqat tezlik uchun
+B) Ranglar uchun
+D) Tovushlar uchun
+
+11. React Native qaysi dasturlash tilida yoziladi?
+A) Java
+B) *JavaScript
+C) Swift
+D) Kotlin
+
+12. Xcode qaysi platforma uchun asosiy dasturlash muhiti?
+A) Android
+B) *iOS
+C) Windows Phone
+D) BlackBerry
+
+13. Android Studio qaysi dasturlash tillarini qo'llab-quvvatlaydi?
+A) Faqat Java
+B) Faqat Kotlin
+C) *Java va Kotlin
+D) Faqat C++
+
+14. Flutter qaysi dasturlash tilida yoziladi?
+A) JavaScript
+B) Java
+C) *Dart
+D) Python
+
+21. Material Design kim tomonidan ishlab chiqilgan?
+A) Apple
+B) *Google
+C) Microsoft
+D) Facebook
+
+41. Freemium model nima?
+A) Hammasi bepul
+B) Hammasi pullik
+C) *Asosiy xizmat bepul, qo'shimcha xususiyatlar pullik
+D) Faqat reklama orqali daromad
+
+42. In-app purchase'lar qanday ishlaydi?
+A) *Ilova ichida qo'shimcha content yoki xususiyatlar sotish
+B) Ilovani o'rnatish uchun to'lov
+C) Reklama ko'rsatish
+D) Ma'lumotlarni sotish
+
+43. Ad-supported model ning asosiy printsipi nima?
+A) Foydalanuvchilar to'lov qiladi
+B) *Reklamachi kompaniyalar to'lov qiladi
+C) Hukumat subsidiya beradi
+D) Hech kim to'lov qilmaydi
+
+44. Subscription model qaysi turdagi ilovalar uchun mos?
+A) *Doimiy content yoki xizmat taqdim etuvchi ilovalar
+B) Faqat o'yinlar
+C) Faqat utility ilovalar
+D) Faqat social media ilovalar
+
+45. App store optimization (ASO) nima uchun muhim?
+A) Kod sifatini yaxshilash uchun
+B) *Ilovani topish va yuklab olishni osonlashtirish uchun
+C) Xatolarni kamaytirish uchun
+D) Tezlikni oshirish uchun
+
+46. Beta testing monetizatsiyaga qanday yordam beradi?
+A) *Foydalanuvchi feedback'i orqali product'ni yaxshilash
+B) To'g'ridan-to'g'ri pul topish
+C) Reklama joylashtirish
+D) Ma'lumot yig'ish
+
+47. Viral marketing mobil ilovalar uchun nima?
+A) Viruslardan himoya
+B) *Foydalanuvchilar orqali organic tarzda tarqalish
+C) Antivirus dastur
+D) Virusli kod yozish
+
+48. Customer Lifetime Value (CLV) nima?
+A) Foydalanuvchi yoshini hisoblash
+B) *Bir foydalanuvchidan umumiy kutilayotgan daromad
+C) Ilovadan foydalanish vaqti
+D) Marketing xarajatlari
+
+49. Conversion rate monetizatsiyada nima bildiradi?
+A) Valyuta ayirboshlash kursi
+B) *Bepul foydalanuvchilardan pullik foydalanuvchilarga o'tish nisbati
+C) Kod konvertatsiya qilish
+D) Format o'zgartirish
+
+50. Retention rate nima uchun muhim?
+A) Ma'lumotlarni saqlash uchun
+B) *Foydalanuvchilarni ilovada ushlab turish uchun
+C) Xotirani boshqarish uchun
+D) Tezlikni o'lchash uchun
+
+
+51. React Native da matn ko'rsatish uchun qaysi component ishlatiladi?
+A) View
+B) *Text
+C) Label
+D) Paragraph
+
+52. Quyidagilardan qaysi biri to'g'ri Text component sintaksisi?
+A) <Text value="Hello World!" />
+B) *<Text>Hello World!</Text>
+C) <Text text="Hello World!" />
+D) <Text content="Hello World!" />
+
+53. React Native da View component ning asosiy vazifasi nima?
+A) *Container va layout yaratish
+B) Matn ko'rsatish
+C) Rasmlar ko'rsatish
+D) Ma'lumot yuklash
+
+54. Quyidagi kodda xatolik qayerda?
+```
+<View>
+  Hello World!
+</View>
+```
+A) View noto'g'ri
+B) *Text component ishlatish kerak
+C) Sintaksis to'g'ri
+D) Qavs ishlatilmagan
+
+55. ScrollView va FlatList o'rtasidagi asosiy farq nima?
+A) ScrollView tezroq
+B) *FlatList katta ro'yxatlar uchun optimallashtirilgan
+C) FlatList faqat vertikal scroll qiladi
+D) ScrollView ko'proq xususiyatlarga ega
+
+56. Image component da source qanday qiymatlarni qabul qiladi?
+A) Faqat URL
+B) Faqat mahalliy fayl yo'li
+C) *URL va mahalliy fayl yo'li
+D) Faqat base64
+
+57. Quyidagi Image component sintaksisida qaysi xatolik bor?
+```
+<Image src="image.png" />
+```
+A) *source ishlatish kerak
+B) Image tag'i noto'g'ri
+C) Hech qanday xatolik yo'q
+D) Style kerak
+
+58. TouchableOpacity va TouchableHighlight o'rtasidagi farq nimada?
+A) *TouchableOpacity shaffoflikni o'zgartiradi, TouchableHighlight fon rangini
+B) Faqat platformalar farqi
+C) TouchableOpacity tezroq ishlaydi
+D) Hech qanday farq yo'q
+
+59. React Native da import qatorida qaysi xatolik bor?
+```
+import React from 'react';
+import {View, Text} from 'react';
+```
+A) React import qatori noto'g'ri
+B) *'react-native'dan import qilish kerak
+C) Hech qanday xatolik yo'q
+D) Qavs ishlatmaslik kerak
+
+60. Component export qilishning to'g'ri usuli qaysi?
+A) module.exports = App;
+B) export App;
+C) *export default App;
+D) return App;
+
+61. TextInput component qanday import qilinadi?
+A) import TextInput from 'react-native';
+B) *import {TextInput} from 'react-native';
+C) import {Input} from 'react-native';
+D) import TextInput from 'react';
+
+
+63. TextInput da multiline true qilinsa nima bo'ladi?
+A) Matn ko'p rangli bo'ladi
+B) *Ko'p qatorli matn kiritish imkoni paydo bo'ladi
+C) Matn kattaroq ko'rinadi
+D) Matn markazga joylashadi
+
+64. keyboardType qanday qiymatlarni qabul qiladi?
+A) Faqat 'default'
+B) *'numeric', 'email-address', 'phone-pad' va boshqalar
+C) Faqat 'text'
+D) Faqat 'number'
+
+65. Quyidagi TextInput kodida qaysi attribut noto'g'ri?
+```
+<TextInput 
+  text="Hello"
+  placeholder="Enter text"
+/>
+```
+A) placeholder noto'g'ri
+B) *text emas, value yoki defaultValue ishlatish kerak
+C) Hech qanday xatolik yo'q
+D) TextInput tag'i noto'g'ri
+
+66. onChangeText event qanday ishlaydi?
+A) Event object qaytaradi
+B) *Faqat matn qiymatini qaytaradi
+C) Boolean qaytaradi
+D) Number qaytaradi
+
+67. Quyidagi kodda state yangilash to'g'ri amalga oshirilganmi?
+```
+const [text, setText] = useState('');
+<TextInput 
+  onChangeText={setText}
+  value={text}
+/>
+```
+A) Noto'g'ri, onChangeText ishlatmaslik kerak
+B) *To'g'ri
+C) Noto'g'ri, defaultValue ishlatish kerak
+D) Noto'g'ri, useState ishlatmaslik kerak
+
+68. secureTextEntry prop nima uchun ishlatiladi?
+A) Xavfsiz matn saqlash uchun
+B) *Parol kiritish uchun matnni yashirish
+C) Matnni shifrlash uchun
+D) Xatolardan himoya qilish uchun
+
+69. Quyidagi useState import qatori to'g'rimi?
+```
+import React, {useState} from 'react';
+```
+A) *To'g'ri
+B) Noto'g'ri, useState alohida import qilish kerak
+C) Noto'g'ri, React'dan keyin vergul kerak emas
+D) Noto'g'ri, 'react-native'dan import qilish kerak
+
+
+65. secureTextEntry prop nima uchun ishlatiladi?
+A) Xavfsiz matn saqlash uchun
+B) *Parol kiritish uchun matnni yashirish
+C) Matnni shifrlash uchun
+D) Xatolardan himoya qilish uchun
+
+66. TextInput da placeholder va placeholderTextColor larining maqsadi nima?
+A) *Foydalanuvchiga ko'rsatma berish va uning rangini sozlash
+B) Matnni formatlash
+C) Validatsiya qilish
+D) Ma'lumotni saqlash
+
+67. autoCapitalize prop qaysi qiymatlarni qabul qiladi?
+A) Faqat true/false
+B) *'none', 'sentences', 'words', 'characters'
+C) Faqat 'on'/'off'
+D) Faqat raqamlar
+
+68. TextInput da returnKeyType prop ning vazifasi nima?
+A) Klaviaturani yashirish
+B) *Enter tugmasining ko'rinishini sozlash
+C) Matnni qaytarish
+D) Funksiyani chaqirish
+
+69. TextInput da focus() va blur() method'lari nima qiladi?
+A) Matnni tozalaydi
+B) *Focus beradi va olib tashlaydi
+C) Matnni formatlaydi
+D) Validatsiya qiladi
+
+70. TextInput ning onSubmitEditing event i qachon chaqiriladi?
+A) Matn o'zgarganda
+B) *Enter tugmasi bosilganda
+C) Focus yo'qolganda
+D) Component mount bo'lganda
+
+71. React Native da style prop qanday qiymat qabul qiladi?
+A) Faqat string
+B) Faqat object
+C) *Object yoki object array i
+D) Faqat StyleSheet
+
+72. Quyidagi style yozilishi to'g'rimi?
+```
+<View style={{width: 100, height: 100}} />
+```
+A) *To'g'ri
+B) Noto'g'ri, StyleSheet ishlatish kerak
+C) Noto'g'ri, string bo'lishi kerak
+D) Noto'g'ri, px qo'shish kerak
+
+
+74. Quyidagi kodda qanday xatolik bor?
+```
+<View style={{width: "100px", height: "50px"}} />
+```
+A) *"px" qo'shmaslik kerak, faqat raqam
+B) Hech qanday xatolik yo'q
+C) width va height string bo'lishi kerak
+D) Style object noto'g'ri
+
+75. Flexbox ishlatilganda width va height qanday ta'sir qiladi?
+A) *Flex xususiyatlari bilan birgalikda ishlaydi
+B) Flexbox bu xususiyatlarni bekor qiladi
+C) Faqat height ishlaydi
+D) Faqat width ishlaydi
+
+76. Percentage asosidagi o'lchamlar qanday yoziladi?
+A) width: 50%
+B) *width: '50%'
+C) width: {50%}
+D) width: percent(50)
+
+77. Quyidagi style array sintaksisi to'g'rimi?
+```jsx
+<View style={[styles.container, {backgroundColor: 'red'}]} />
+```
+A) *To'g'ri
+B) Noto'g'ri, array ishlatish mumkin emas
+C) Noto'g'ri, object birgalikda yozish kerak
+D) Noto'g'ri, StyleSheet kerak
+
+78. StyleSheet.create() nima uchun ishlatiladi?
+A) *Style yaratish uchun
+B) Performance va validation uchun
+C) Ranglarni yaratish uchun
+D) Component yaratish uchun
+
+79. Quyidagi StyleSheet import qatori to'g'rimi?
+```
+import {StyleSheet} from 'react-native';
+```
+A) *To'g'ri
+B) Noto'g'ri, StyleSheet alohida import qilish kerak
+C) Noto'g'ri, 'react'dan import qilish kerak
+D) Noto'g'ri, default import qilish kerak
+
+80. width: 'auto' qiymatining ma'nosi nima?
+A) Avtomatik kattalashadi
+B) *Content asosida o'lcham belgilanadi
+C) Eng katta o'lcham
+D) Eng kichik o'lcham
+
+81. React Native da default flex direction qanday?
+A) row
+B) *column
+C) row-reverse
+D) column-reverse
+
+82. Quyidagi flexDirection sintaksisi to'g'rimi?
+```
+<View style={{flexDirection: 'row'}} />
+```
+A) *To'g'ri
+B) Noto'g'ri, flex-direction yozish kerak
+C) Noto'g'ri, camelCase emas
+D) Noto'g'ri, string emas
+
+84. flex: 1 qiymatining ma'nosi nima?
+A) 1 piksel o'lcham
+B) *Mavjud joyni to'liq egallash
+C) 1% o'lcham
+D) Minimum o'lcham
+
+85. flexWrap xususiyati nima uchun ishlatiladi?
+A) Matnni wrap qilish uchun
+B) *Element'larni keyingi qatorga o'tkazish uchun
+C) Image'larni wrap qilish uchun
+D) Container'ni wrap qilish uchun
+
+86. Quyidagi justifyContent qiymatlari ichida qaysi biri mavjud emas?
+A) flex-start
+B) center
+C) space-between
+D) *space-evenly
+
+87. alignItems va justifyContent o'rtasidagi farq nima?
+A) Hech qanday farq yo'q
+B) *alignItems cross axis, justifyContent main axis uchun
+C) alignItems horizontal, justifyContent vertical uchun
+D) alignItems vertikal, justifyContent gorizontal uchun
+
+88. space-between va space-around o'rtasidagi farq nima?
+A) *space-around element'lar atrofida teng joy, space-between faqat orasida
+B) Hech qanday farq yo'q
+C) space-around faqat vertikal uchun
+D) space-between faqat gorizontal uchun
+
+89. Quyidagi flex container kodida qanday xatolik bor?
+```
+<View style={{display: 'flexbox'}}>
+  <Text>Item 1</Text>
+</View>
+```
+A) Text component noto'g'ri
+B) *display: 'flex' yoki flex: 1 ishlatish kerak
+C) Hech qanday xatolik yo'q
+D) View component noto'g'ri
+
+90. flexGrow: 1 va flex: 1 o'rtasidagi farq nima?
+A) *flex: 1 = flexGrow: 1, flexShrink: 1, flexBasis: 0
+B) Hech qanday farq yo'q
+C) flexGrow tezroq
+D) flex yangi API
+
+91. React Native da ranglarni qanday usullarda belgilash mumkin?
+A) Faqat hex
+B) Faqat rgb
+C) *Hex, rgb, rgba, named colors
+D) Faqat named colors
+
+92. Quyidagi rang sintaksislaridan qaysi biri noto'g'ri?
+A) backgroundColor: '#FF0000'
+B) backgroundColor: 'red'
+C) backgroundColor: 'rgb(255,0,0)'
+D) *backgroundColor: color('red')
+
+93. rgba() da oxirgi qiymat nimani bildiradi?
+A) Qizillik darajasi
+B) Yorqinlik
+C) *Shaffoflik (alpha)
+D) Kontrast
+
+94. Quyidagi kod qanday rang beradi agar rgb qiymati qizil rangni anglatsa?
+```
+<View style={{backgroundColor: 'rgba(255,0,0,0.5)'}} />
+```
+A) To'liq qizil
+B) *Yarim shaffof qizil
+C) Qora
+D) Oq
+
+95. 'transparent' rangi qanday qiymatga teng?
+A) #000000
+B) *rgba(0,0,0,0)
+C) #FFFFFF
+D) rgba(255,255,255,0)
+
+96. borderColor va backgroundColor o'rtasidagi farq nimada?
+A) Hech qanday farq yo'q
+B) *borderColor chegarani, backgroundColor ichki qismni ranglaydi
+C) borderColor ichkarini ranglaydi
+D) backgroundColor tashqarini ranglaydi
+
+97. Quyidagi style birlashmasida qanday rang ko'rinadi?
+```jsx
+style={[{backgroundColor: 'red'}, {backgroundColor: 'blue'}]}
+```
+A) Qizil
+B) *Ko'k
+C) Binafsharang (aralash)
+D) Qora
+
+98. Hex ranglarni yozishning qaysi usuli to'g'ri?
+A) backgroundColor: FF0000
+B) backgroundColor: #FF0000
+C) *backgroundColor: '#FF0000'
+D) backgroundColor: 'FF0000'
+
+99. RGB ranglarni yozishning to'g'ri usuli qaysi?
+A) backgroundColor: rgb(255,0,0)
+B) *backgroundColor: 'rgb(255,0,0)'
+C) backgroundColor: {rgb(255,0,0)}
+D) backgroundColor: [255,0,0]
+
+100. Quyidagi kodda component necha xil rang ko'rinadi?
+```jsx
+<View style={{backgroundColor: 'red', borderColor: 'blue', color: 'green'}}>
+  <Text style={{color: 'yellow'}}>Hello</Text>
+</View>
+```
+A) *3 xil (qizil fon, ko'k chegara, sariq matn)
+B) 4 xil
+C) 2 xil
+D) 1 xil
